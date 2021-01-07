@@ -1,4 +1,4 @@
-# COVID-19-Word-Embeddings-
+# COVID-19 Arabic Word Embeddings
 # COVID19 Twitter Word2Vec models  
 We release four embedding models 
 - Model trained by Skipgram algorithm with a dimension of 200 [Download URL](https://drive.google.com/file/d/1Ds5Bl0jCkHbmOKckuW3uFvnncav_0uO_/view?usp=sharing)
