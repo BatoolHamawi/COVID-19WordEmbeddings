@@ -1,5 +1,7 @@
 # COVID-19 Arabic Word Embeddings
+ 
 We built a word vectors model exploiting our whole COVID-19 dataset collected from January 2020 to April 2020 [link](https://github.com/SarahAlqurashi/COVID-19-Arabic-Tweets-Dataset). By removing retweets and duplicated tweets, we ended with 2,821,940 tweets. We consider two noticeable word embeddings generation methods: word2vec, and FastText.
+Using these pre-trained word embeddings models that are domain-specific (COVID-19) would be more accurate than using other generic pre-trained word embeddings in AI tasks.  
 # COVID19 Twitter Word2Vec models  
 We release four embedding models 
 - Model trained by Skipgram algorithm with a dimension of 200 [Download URL](https://drive.google.com/file/d/1Ds5Bl0jCkHbmOKckuW3uFvnncav_0uO_/view?usp=sharing)
