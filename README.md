@@ -35,7 +35,7 @@ Here is the T-SNE visualisation of the word embedding in 3D. It was done using "
 
 # References
 - We built our word embeddings [The Word2Vec-Twitter-Skipgram with dimension 200](https://drive.google.com/file/d/1Ds5Bl0jCkHbmOKckuW3uFvnncav_0uO_/view?usp=sharing) in our paper [COVID-19: What Are Arabic Tweeters Talking About?](https://link.springer.com/chapter/10.1007%2F978-3-030-66046-8_35), to determine the number of topics 
-If you are qoing to use this model, please cite this work using the following bibtext: 
+If you are going to use this model, please cite this work using the following bibtext: 
 ```cite
 @inproceedings{hamoui2020covid,
   title={COVID-19: What Are Arabic Tweeters Talking About?},
@@ -48,7 +48,7 @@ If you are qoing to use this model, please cite this work using the following bi
 ```
 - The rest of word embeddings models were built to be used with classification algorithm in our paper
 [Eating Garlic Prevents COVID-19 Infection: Detecting Misinformation on the Arabic Content of Twitter](https://arxiv.org/abs/2101.05626)
-If you are qoing to use our pre-trained models, please cite this work using the following bibtext: 
+If you are going to use our pre-trained models, please cite this work using the following bibtext: 
 ```cite
 @article{alqurashi2021eating,
   title={Eating Garlic Prevents COVID-19 Infection: Detecting Misinformation on the Arabic Content of Twitter},
