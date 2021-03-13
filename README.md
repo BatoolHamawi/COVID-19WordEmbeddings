@@ -3,16 +3,8 @@
 We built a word vectors model exploiting our whole COVID-19 dataset collected from January 2020 to April 2020 [link](https://github.com/SarahAlqurashi/COVID-19-Arabic-Tweets-Dataset). By removing retweets and duplicated tweets, we ended with 2,821,940 tweets. We consider two noticeable word embeddings generation methods: word2vec, and FastText.
 Using these pre-trained word embeddings models that are domain-specific (COVID-19) would be more accurate than using other generic pre-trained word embeddings in AI tasks. 
 
-# Citation 
-If you are qoing to use our pre-trained models, please cite this work using the following bibtext: 
-```cite
-@article{alqurashi2021eating,
-  title={Eating Garlic Prevents COVID-19 Infection: Detecting Misinformation on the Arabic Content of Twitter},
-  author={Alqurashi, Sarah and Hamoui, Btool and Alashaikh, Abdulaziz and Alhindi, Ahmad and Alanazi, Eisa},
-  journal={arXiv preprint arXiv:2101.05626},
-  year={2021}
-}
-```
+
+
 # COVID19 Twitter Word2Vec models  
 We release four embedding models 
 
@@ -52,5 +44,15 @@ We built our word embeddings [The Word2Vec-Twitter-Skipgram with dimension 200](
   pages={425--436},
   year={2020},
   organization={Springer}
+}
+```
+[Eating Garlic Prevents COVID-19 Infection: Detecting Misinformation on the Arabic Content of Twitter](https://arxiv.org/abs/2101.05626)
+If you are qoing to use our pre-trained models, please cite this work using the following bibtext: 
+```cite
+@article{alqurashi2021eating,
+  title={Eating Garlic Prevents COVID-19 Infection: Detecting Misinformation on the Arabic Content of Twitter},
+  author={Alqurashi, Sarah and Hamoui, Btool and Alashaikh, Abdulaziz and Alhindi, Ahmad and Alanazi, Eisa},
+  journal={arXiv preprint arXiv:2101.05626},
+  year={2021}
 }
 ```
