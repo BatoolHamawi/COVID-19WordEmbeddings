@@ -31,3 +31,9 @@ We release four embedding models
 We release two embedding models 
 - Model trained by Skipgram algorithm with a dimension of 200 [Download URL](https://drive.google.com/file/d/1XpJotgk7Y6XX6wIuHTUNM0hC7qmeg8xC/view?usp=sharing)
 - Model trained by Skipgram algorithm with a dimension of 300 [Download URL](https://drive.google.com/file/d/1XgFTZp-Abv5-Op9cNLO25eJSuQO2nHer/view?usp=sharing)
+
+| Model | Vocabularies No.| Vec-Size | Download |
+| ------------- | ------------- |------------- |------------- |
+| FastText-Twitter-SkipGram | 262,715 | 200  | [Download URL](https://drive.google.com/file/d/1XpJotgk7Y6XX6wIuHTUNM0hC7qmeg8xC/view?usp=sharing)|
+| FastText-Twitter-SkipGram | 262,715 | 300  | [Download URL](https://drive.google.com/file/d/1XgFTZp-Abv5-Op9cNLO25eJSuQO2nHer/view?usp=sharing) |
+
