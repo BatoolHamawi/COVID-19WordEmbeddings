@@ -38,3 +38,6 @@ Here is the T-SNE visualisation of the word embedding in 3D. It was done using "
 - T-SNE visualisation of Model trianed by Continous Bag of word with a dimension of 300 
 ![Tsne_CBOW300](https://user-images.githubusercontent.com/18370351/111040683-3f078780-8445-11eb-8aa0-32161978ab90.jpg)
 
+- T-SNE visualisation of FastText Model trained with a dimension of 300 
+![Tsne_modelSkipGramFast300](https://user-images.githubusercontent.com/18370351/111040850-3b283500-8446-11eb-87df-d2b12ffd558c.jpg)
+
