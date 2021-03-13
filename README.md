@@ -41,7 +41,9 @@ Here is the T-SNE visualisation of the word embedding in 3D. It was done using "
 - T-SNE visualisation of FastText Model trained with a dimension of 300 
 ![Tsne_modelSkipGramFast300](https://user-images.githubusercontent.com/18370351/111040850-3b283500-8446-11eb-87df-d2b12ffd558c.jpg)
 
-# [The Word2Vec-Twitter-Skipgram with dimension 200](https://drive.google.com/file/d/1Ds5Bl0jCkHbmOKckuW3uFvnncav_0uO_/view?usp=sharing)
+# Citation  
+We built our word embeddings [The Word2Vec-Twitter-Skipgram with dimension 200](https://drive.google.com/file/d/1Ds5Bl0jCkHbmOKckuW3uFvnncav_0uO_/view?usp=sharing) in our paper 
+[COVID-19: What Are Arabic Tweeters Talking About?](https://link.springer.com/chapter/10.1007%2F978-3-030-66046-8_35),If you are qoing to use this model, please cite this work using the following bibtext: 
 ```cite
 @inproceedings{hamoui2020covid,
   title={COVID-19: What Are Arabic Tweeters Talking About?},
