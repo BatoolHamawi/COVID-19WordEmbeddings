@@ -34,5 +34,7 @@ We release two embedding models
 
 # Word Embeddings in 2D using T-SNE
 Here is the T-SNE visualisation of the word embedding in 3D. It was done using "Embedding Projector" with 3500 iterations and 15 perplexity.
+
+- T-SNE visualisation of Model trianed by Continous Bag of word with a dimension of 300 
 ![Tsne_CBOW300](https://user-images.githubusercontent.com/18370351/111040683-3f078780-8445-11eb-8aa0-32161978ab90.jpg)
 
