@@ -44,6 +44,7 @@ For loading and using one of the models, you should install the `gensim` and `nl
 > 
 >> conda install gensim nltk
 
+### [Code sample](https://github.com/BatoolHamawi/COVID-19WordEmbeddings/blob/main/WordEmbeddingsVector.ipynb)
 ******************************************
 
 # References
