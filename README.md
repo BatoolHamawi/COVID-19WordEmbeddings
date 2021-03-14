@@ -40,9 +40,9 @@ These models were built using [gensim](https://radimrehurek.com/gensim/models/fa
 For loading and using one of the models, you should install the `gensim` and `nltk` :
 - install `gensim` >= 3.4 and `nltk` >= 3.2 using either `pip` or `conda`
 
-> pip install gensim nltk
+>> pip install gensim nltk
 > 
-> conda install gensim nltk
+>> conda install gensim nltk
 
 ******************************************
 
