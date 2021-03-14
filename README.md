@@ -41,6 +41,7 @@ For loading and using one of the models, you should install the `gensim` and `nl
 - install `gensim` >= 3.4 and `nltk` >= 3.2 using either `pip` or `conda`
 
 > pip install gensim nltk
+> 
 > conda install gensim nltk
 
 ******************************************
